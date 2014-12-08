@@ -19,7 +19,14 @@
     "homepage": "https://github.com/tomasklapka/amber-iri",
     "keywords": [
         "Amber",
-        "Smalltalk"
+        "Smalltalk",
+        "URI",
+        "IRI",
+        "convert",
+        "encode",
+        "decode",
+        "RFC 3986",
+        "RFC 3987"
     ],
     "license": [
         "UNLICENSE"
