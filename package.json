@@ -1,0 +1,49 @@
+{
+  "name": "iri",
+  "title": "IRI",
+  "description": "RFC 3986 and RFC 3987 (URI/IRI) converting and parsing (port of Acubed's node-iri)",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tomasklapka/amber-iri",
+  "author": {
+    "name": "Tomáš Klapka",
+    "email": "tomas@klapka.cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomasklapka/amber-iri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomasklapka/amber-iri/issues"
+  },
+  "licenses": [
+    {
+      "type": "UNLICENSE",
+      "url": "https://github.com/tomasklapka/amber-iri/blob/master/UNLICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "amber-dev": "^0.2.3",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-execute": "^0.2.2",
+    "requirejs": "^2.1.15"
+  },
+  "keywords": [
+    "Amber",
+    "Smalltalk",
+    "URI",
+    "IRI",
+    "convert",
+    "encode",
+    "decode",
+    "RFC 3986",
+    "RFC 3987"
+  ]
+}

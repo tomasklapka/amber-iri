@@ -1,0 +1,35 @@
+{
+    "name": "iri",
+    "description": "RFC 3986 and RFC 3987 (URI/IRI) converting and parsing (port of Acubed's node-iri)",
+    "version": "0.0.1",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "/test_runner.js",
+        "test",
+        "tests"
+    ],
+    "authors": [
+        {
+            "name": "Tomáš Klapka",
+            "email": "tomas@klapka.cz"
+        }
+    ],
+    "homepage": "https://github.com/tomasklapka/amber-iri",
+    "keywords": [
+        "Amber",
+        "Smalltalk"
+    ],
+    "license": [
+        "UNLICENSE"
+    ],
+    "private": false,
+    "dependencies": {
+        "amber": "^0.13.2"
+    },
+    "devDependencies": {
+        "amber-ide-starter-dialog": "^0.1.0",
+        "helios": "^0.3.0"
+    }
+}
