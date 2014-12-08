@@ -2,7 +2,7 @@
 
 <a href="http://www.ietf.org/rfc/rfc3986.txt">RFC 3986</a> and <a href="http://www.ietf.org/rfc/rfc3987.txt">RFC 3987</a> (URI/IRI) converting and parsing for [Amber Smalltalk](https://github.com/amber-smalltalk/amber)
 
-Port of [Acubed](https://github.com/Acubed/)'s' (node-iri)[https://github.com/Acubed/node-iri/] JS library. Thanks!
+Port of [Acubed](https://github.com/Acubed/)'s' [node-iri](https://github.com/Acubed/node-iri/) JS library. Thanks!
 
 ## Possible Issues
 
