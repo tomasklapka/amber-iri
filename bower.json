@@ -1,5 +1,5 @@
 {
-    "name": "iri",
+    "name": "amber-iri",
     "description": "RFC 3986 and RFC 3987 (URI/IRI) converting and parsing (port of Acubed's node-iri)",
     "version": "0.0.1",
     "ignore": [
